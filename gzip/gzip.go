@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/urfave/negroni"
+	"github.com/jetume/negroni"
 )
 
 // These compression constants are copied from the compress/gzip package.
